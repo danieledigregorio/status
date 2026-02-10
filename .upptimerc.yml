@@ -1,17 +1,30 @@
+# .upptimerc.yml [page:1]
+
 owner: danieledigregorio
 repo: status
 
 sites:
-  - name: Daniele Di Gregorio
-    url: https://www.danieledigregorio.it
   - name: digreg.dev
     url: https://digreg.dev
-  - name: CineFX
-    url: https://cinefx.danieledigregorio.it
+  - name: Status page (custom domain)
+    url: https://status.digreg.dev
+  - name: GitHub
+    url: https://github.com/danieledigregorio
+  - name: Cloudflare
+    url: https://www.cloudflare.com
+  - name: Google DNS
+    check: "tcp-ping"
+    url: dns.google
+    port: 53
 
 status-website:
-  theme: night
   cname: status.digreg.dev
-  name: Status | digreg.dev
-  logoUrl: https://digreg.dev/logo512.png
-  favicon: https://digreg.dev/logo512.png
+  name: Status - digreg.dev
+  introTitle: "Status page"
+  introMessage: "Uptime e tempi di risposta, aggiornati automaticamente da GitHub Actions."
+  theme: dark
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO

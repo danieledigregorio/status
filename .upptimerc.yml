@@ -14,5 +14,4 @@ status-website:
   cname: status.digreg.dev
   name: Status | digreg.dev
   logoUrl: https://digreg.dev/logo512.png
-  favicon: https://digreg.dev/favicon.ico
-  themeUrl: https://status.digreg.dev/digreg-theme.css
+  favicon: https://digreg.dev/logo512.png

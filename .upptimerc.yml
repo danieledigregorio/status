@@ -1,30 +1,108 @@
-# .upptimerc.yml [page:1]
+# .upptimerc.yml [web:1]
 
 owner: danieledigregorio
 repo: status
 
 sites:
+  - name: Daniele Di Gregorio
+    url: https://danieledigregorio.it
+
   - name: digreg.dev
     url: https://digreg.dev
-  - name: Status page (custom domain)
-    url: https://status.digreg.dev
-  - name: GitHub
-    url: https://github.com/danieledigregorio
-  - name: Cloudflare
-    url: https://www.cloudflare.com
-  - name: Google DNS
-    check: "tcp-ping"
-    url: dns.google
-    port: 53
+  - name: digreg.dev API
+    url: https://api.digreg.dev
+  - name: digreg.dev MAIL
+    url: https://mail.digreg.dev
+
+  - name: CineFX
+    url: https://cinefx.danieledigregorio.it
+  - name: CineFX Account
+    url: https://account.cinefx.danieledigregorio.it
+  - name: CineFX API
+    url: https://api-cinefx.danieledigregorio.it
+
+  - name: GoCicero
+    url: https://gocicero.it
+  - name: GoCicero Admin
+    url: https://admin.gocicero.it
+  - name: GoCicero Utils
+    url: https://utils.gocicero.it
+  - name: GoCicero API
+    url: https://api.gocicero.it
+  - name: GoCicero MAIL
+    url: https://mail.gocicero.it
+
+  - name: OASI on the Street Admin
+    url: https://admin.mosaicorefugees.org
+  - name: OASI on the Street API
+    url: https://api.mosaicorefugees.org
+
+  - name: SARANNOPURECAZZIMIEI
+    url: https://sarannopurecazzimiei.it
+  - name: SARANNOPURECAZZIMIEI API
+    url: https://api.sarannopurecazzimiei.it
+
+  - name: EmeraldMonde
+    url: https://emeraldmonde.com
+  - name: EmeraldMonde MAIL
+    url: https://mail.emeraldmonde.com
+
+  - name: Golden Basin
+    url: https://goldenbasin.it
+  - name: Golden Basin MAIL
+    url: https://mail.goldenbasin.it
+
+  - name: Prime Shop
+    url: https://primeshop.pro
+  - name: Prime Shop MAIL
+    url: https://mail.primeshop.pro
+
+  - name: Scalp Squad Barberia
+    url: https://scalpsquadbarberia.it
+  - name: Scalp Squad Barberia Booking
+    url: https://booking.scalpsquadbarberia.it
+  - name: Scalp Squad Barberia Admin
+    url: https://admin.scalpsquadbarberia.it
+  - name: Scalp Squad Barberia MAIL
+    url: https://mail.scalpsquadbarberia.it
+  - name: Scalp Squad Barberia Whatsapp Service
+    url: https://whatsapp.danieledigregorio.it
+
+  - name: 1018
+    url: https://diecidiciotto.com
+
+  - name: Laugh Tales
+    url: https://laughtales.it
+
+  - name: MGM Solar MEDIA
+    url: https://media.mgmsolar.it
+
+  - name: New Ander 1962
+    url: https://newander1962.com
+
+  - name: Pets App
+    url: https://pets-app.it
+  - name: Pets App MAIL
+    url: https://mail.pets-app.it
+
+  - name: PiGreco Advisor
+    url: https://pigrecoadvisor.com
+
+  - name: Daniele Di Gregorio MAIL
+    url: https://mail.danieledigregorio.it
+  - name: Luigi Mennella MAIL
+    url: https://mail2.luigimennella.com
 
 status-website:
   cname: status.digreg.dev
   name: Status - digreg.dev
   introTitle: "Status page"
-  introMessage: "Uptime e tempi di risposta, aggiornati automaticamente da GitHub Actions."
-  theme: dark
+  introMessage: "Uptime e tempi di risposta (GitHub Actions)."
+  theme: night
+  favicon: https://digreg.dev/favicon.ico
+  logoUrl: https://digreg.dev/logo512.png
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: digreg.dev
+      href: https://digreg.dev

@@ -6,6 +6,8 @@ sites:
     url: https://www.danieledigregorio.it
   - name: digreg.dev
     url: https://digreg.dev
+  - name: CineFX
+    url: https://cinefx.danieledigregorio.it
 
 status-website:
   cname: status.digreg.dev

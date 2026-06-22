@@ -3,6 +3,9 @@
 owner: danieledigregorio
 repo: status
 
+upptime:
+  version: 2.0.0
+
 sites:
   - name: Daniele Di Gregorio
     url: https://danieledigregorio.it

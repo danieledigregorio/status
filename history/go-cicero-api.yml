@@ -1,7 +1,7 @@
 url: https://api.gocicero.it
-status: down
-code: 503
-responseTime: 384
-lastUpdated: 2026-07-10T15:42:04.848Z
+status: up
+code: 200
+responseTime: 688
+lastUpdated: 2026-07-10T17:25:49.365Z
 startTime: 2026-02-10T15:46:54.747Z
 generator: Upptime <https://github.com/upptime/upptime>

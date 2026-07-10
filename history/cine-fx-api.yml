@@ -1,7 +1,7 @@
 url: https://api-cinefx.danieledigregorio.it
-status: down
-code: 503
-responseTime: 408
-lastUpdated: 2026-07-10T15:41:44.977Z
+status: up
+code: 200
+responseTime: 688
+lastUpdated: 2026-07-10T17:25:43.728Z
 startTime: 2026-02-10T15:46:47.078Z
 generator: Upptime <https://github.com/upptime/upptime>

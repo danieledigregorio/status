@@ -280,18 +280,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sarannopurecazzimiei.it.ico",
     "slug": "sarannopurecazzimiei",
     "status": "down",
-    "uptime": "81.68%",
+    "uptime": "81.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.97%",
-    "uptimeYear": "81.68%",
+    "uptimeMonth": "4.14%",
+    "uptimeYear": "81.22%",
     "time": 1255,
     "timeDay": 483,
     "timeWeek": 535,
     "timeMonth": 519,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2026-07-15": 133,
+      "2026-07-15": 1373,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -349,18 +349,20 @@
     "url": "https://emeraldmonde.com",
     "icon": "https://icons.duckduckgo.com/ip3/emeraldmonde.com.ico",
     "slug": "emerald-monde",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1491,
     "timeDay": 881,
     "timeWeek": 1037,
     "timeMonth": 1051,
     "timeYear": 1491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 33
+    }
   },
   {
     "name": "EmeraldMonde MAIL",
@@ -572,11 +574,11 @@
     "url": "https://laughtales.it",
     "icon": "https://icons.duckduckgo.com/ip3/laughtales.it.ico",
     "slug": "laugh-tales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 1505,
     "timeDay": 1064,
@@ -584,7 +586,8 @@
     "timeMonth": 1296,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2026-04-09": 65
+      "2026-04-09": 65,
+      "2026-07-15": 8
     }
   },
   {
@@ -604,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 133,
+      "2026-07-15": 1374,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
